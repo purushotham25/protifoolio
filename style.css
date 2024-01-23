@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(38, 138, 126) ;
+}
+.name{
+    font-family: "Tangerine",cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+table{
+    border: 2px solid blac(105, 226, 105);
+}
+img{
+    border-radius: 50%;
+}
